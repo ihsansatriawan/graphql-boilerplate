@@ -7,9 +7,9 @@ import { getKota } from '../../api/JakartaSmartCity';
 
 const AuthorData = {
   id: 1,
-  firstName: 'haloo',
-  lastName: 'haloo',
-  posts: 'haloo',
+  firstName: 'Ihsan',
+  lastName: 'Satriawan',
+  posts: 'Mantap Pak Bok',
 };
 
 const AuthorQuery = {
